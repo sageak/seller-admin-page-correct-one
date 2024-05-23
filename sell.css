@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#product-list {
+    margin-top: 20px;
+}
+
+.product-category {
+    margin-bottom: 20px;
+}
+
+.product-item {
+    margin-bottom: 10px;
+}
+
+.delete-button {
+    margin-left: 10px;
+    color: red;
+    cursor: pointer;
+}
